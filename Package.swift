@@ -15,7 +15,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "BugKit",
-            url: "https://github.com/mba-developers/BugKit-IOS-Distribution/releases/download/0.0.1/BugKit.xcframework.zip",
+            url: "https://github.com/mba-developers/BugKit-IOS-Distribution/releases/download/1.0.0/BugKit.xcframework.zip",
             checksum: "97d81a522b9e7222c2c92840d9c6d23d568baba2e057ec2646ed3237a3ebd41f"
         )
     ]
